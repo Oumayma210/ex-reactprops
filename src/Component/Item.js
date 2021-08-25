@@ -6,7 +6,7 @@ import { Alert } from 'bootstrap'
 const Item = ({product: {name,img,price}}) => {
   const show=(e)=>alert(e)
     return (
-        <Card style={{ width: '16rem',backgroundColor:'cadetblue'}}>
+        <Card style={{ width: '16rem',backgroundColor:'lightblue'}}>
   <Card.Img  src={img}/>
   <Card.Body>
     <Card.Title className='title'>{name}</Card.Title>

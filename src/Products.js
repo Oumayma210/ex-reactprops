@@ -3,7 +3,7 @@ export const Products =[
         name: "Samsung",
         price: '$1500',
 },
-    {   img:"./lg.png.png" 
+    {   img:"./lg.png" 
     ,
         name: "LG",
         price: '$1000',
