@@ -1,8 +1,21 @@
+.titre{
+    color:rgb(0, 0, 139);
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 70px;
+    border: double;
+    border-width: 5px;
+    width: 200px;
+}
+#box{display: flex;
+    justify-content: center;
+
+}
 #cardlist{
     display: flex;
     justify-content: space-around;
-    padding-top: 100px;
-    background-image:-webkit-repeating-linear-gradient(black,white);
 }
 .title{
     font-size: 20px;
